@@ -1,20 +1,21 @@
 [
     {
-        "Empresa": "Macro",
+        "Empresa":"Gallumphing",
+        "DominioEmail":"Gallumphing",
         "Salas": [
             {
-                "Sala": "Macro1",
-                "Grupo": "Lideres Argentina",
+                "Sala": "GallPlay1",
+                "Grupo": "Lideres ARG",
                 "Facilitador": "Tano Floridia"
             },
             {
-                "Sala": "Macro2",
-                "Grupo": "Comerciales BUE",
+                "Sala": "GallPlay2",
+                "Grupo": "Comerciales CHL",
                 "Facilitador": "Michelle Blaser"
             },
             {
-                "Sala": "Macro3",
-                "Grupo": "Comerciales CBA",
+                "Sala": "GallPlay3",
+                "Grupo": "Comerciales ARG",
                 "Facilitador": "Juan Cruz Arizaga"
             }
         ]
