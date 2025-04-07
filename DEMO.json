@@ -1,0 +1,13 @@
+[
+    {
+        "Empresa":"Gallumphing",
+        "DominioEmail":"Gallumphing",
+        "Salas": [
+            {
+                "Sala": "GallPlayDemo",
+                "Grupo": "Demo",
+                "Facilitador": "Demo"
+            }
+        ]
+    }
+]
