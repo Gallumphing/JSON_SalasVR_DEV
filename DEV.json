@@ -2,6 +2,24 @@
     {
         "Empresa":"Gallumphing",
         "DominioEmail":"Gallumphing",
+        "Jugadores":[
+            {
+                "Email":"info@gallumphing.com",
+                "Nombre":"MODERADOR"
+            },
+            {
+                "Email":"juampi@gallumphing.com",
+                "Nombre":"Juampi Romano"
+            },
+            {
+                "Email":"tano@gallumphing.com",
+                "Nombre":"Tano Floridia"
+            },
+            {
+                "Email":"rodri@gallumphing.com",
+                "Nombre":"Rodri Arizaga"
+            }
+        ],
         "Salas": [
             {
                 "Sala": "GallPlay1",
