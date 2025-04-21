@@ -1,0 +1,111 @@
+[
+  {
+    "Empresa": "Iscot",
+    "DominioEmail": "Iscot",
+    "Jugadores": [
+      {
+        "Email": "INFO@GALLUMPHING.COM",
+        "Nombre": "MODERADOR"
+      },
+      {
+        "Email": "JUAMPI@GALLUMPHING.COM",
+        "Nombre": "Juampi Romano"
+      },
+      {
+        "Email": "TANO@GALLUMPHING.COM",
+        "Nombre": "Tano Floridia"
+      },
+      {
+        "Email": "RODRI@GALLUMPHING.COM",
+        "Nombre": "Rodri Arizaga"
+      },
+      {
+        "Email": "SANTIAGOFERREYRA@ISCOT.COM.AR",
+        "Nombre": "Santiago Ferreyra"
+      },
+      {
+        "Email": "LUISACUNA@ISCOT.COM.AR",
+        "Nombre": "Luis Acuña"
+      },
+      {
+        "Email": "GUSTAVOBECERRA@ISCOT.COM.AR",
+        "Nombre": "Gustavo Becerra"
+      },
+      {
+        "Email": "IVANBORNANCINI@ISCOT.COM.AR",
+        "Nombre": "Iván Bornancini"
+      },
+      {
+        "Email": "ESTEBANREYNOSO@ISCOT.COM.AR",
+        "Nombre": "Esteban Reynoso"
+      },
+      {
+        "Email": "FEDERICOROIS@ISCOT.COM.AR",
+        "Nombre": "Federico Rois"
+      },
+      {
+        "Email": "MARCOSGATSCH@ISCOT.COM.AR",
+        "Nombre": "Marcos Gatsch"
+      },
+      {
+        "Email": "MARIAAMUCHASTEGUI@ISCOT.COM.AR",
+        "Nombre": "María Amuchastegui"
+      },
+      {
+        "Email": "FABIOLASERRA@ISCOT.COM.AR",
+        "Nombre": "Fabiola Serra"
+      },
+      {
+        "Email": "GUADALUPEAMUCHASTEGUI@ISCOT.COM.AR",
+        "Nombre": "Guadalupe Amuchastegui"
+      },
+      {
+        "Email": "ESTEFANIAMURAZZANO@ISCOT.COM.AR",
+        "Nombre": "Estefania Murazzano"
+      },
+      {
+        "Email": "LUCIANANADAYA@ISCOT.COM.AR",
+        "Nombre": "Luciana Nadaya"
+      },
+      {
+        "Email": "HUMBERTOYORIO@ISCOT.COM.AR",
+        "Nombre": "Humberto Yorio"
+      },
+      {
+        "Email": "CANDELAALVES@ISCOT.COM.AR",
+        "Nombre": "Candela Alves"
+      },
+      {
+        "Email": "DANIELAPONCE@ISCOT.COM.AR",
+        "Nombre": "Daniela Ponce"
+      },
+      {
+        "Email": "MATIASRACCA@ISCOT.COM.AR",
+        "Nombre": "Matias Racca"
+      },
+      {
+        "Email": "INESOLIVA@ISCOT.COM.AR",
+        "Nombre": "María Ines Oliva"
+      },
+      {
+        "Email": "RODRIGOCASOMOLINA@ISCOT.COM.AR",
+        "Nombre": "Rodrigo Caso Molina"
+      },
+      {
+        "Email": "SANTIAGOGATSCH@ISCOT.COM.AR",
+        "Nombre": "Santiago Gatsch"
+      },
+      {
+        "Email": "SANDRARODRIGUEZ@ISCOT.COM.AR",
+        "Nombre": "Sandra Rodríguez"
+      }
+    ],
+    "Salas": [
+      {
+        "Sala": "GallPlayIscot",
+        "Grupo": "Iscot",
+        "Facilitador": "Tano Floridia"
+      }
+    ]
+  }
+]
