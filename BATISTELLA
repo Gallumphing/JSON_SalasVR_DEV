@@ -1,0 +1,147 @@
+[
+  {
+    "Empresa": "Batistella",
+    "DominioEmail": "",
+    "Jugadores": [
+      {
+        "Email": "INFO@GALLUMPHING.COM",
+        "Nombre": "Blas Herrera"
+      },
+      {
+        "Email": "JUAMPI@GALLUMPHING.COM",
+        "Nombre": "Juampi Romano"
+      },
+      {
+        "Email": "TANO@GALLUMPHING.COM",
+        "Nombre": "Tano Floridia"
+      },
+      {
+        "Email": "RODRI@GALLUMPHING.COM",
+        "Nombre": "Rodri Arizaga"
+      },
+      {
+        "Email": "U1@GALLUMPHING.COM",
+        "Nombre": "Usuario 1"
+      },
+      {
+        "Email": "U2@GALLUMPHING.COM",
+        "Nombre": "Usuario 2"
+      },
+      {
+        "Email": "U3@GALLUMPHING.COM",
+        "Nombre": "Usuario 3"
+      },
+      {
+        "Email": "U4@GALLUMPHING.COM",
+        "Nombre": "Usuario 4"
+      },
+      {
+        "Email": "U5@GALLUMPHING.COM",
+        "Nombre": "Usuario 5"
+      },
+      {
+        "Email": "U6@GALLUMPHING.COM",
+        "Nombre": "Usuario 6"
+      },
+      {
+        "Email": "U7@GALLUMPHING.COM",
+        "Nombre": "Usuario 7"
+      },
+      {
+        "Email": "U8@GALLUMPHING.COM",
+        "Nombre": "Usuario 8"
+      },
+      {
+        "Email": "ROCIOALBARRACIN097@GMAIL.COM",
+        "Nombre": "Gilda Rocio Albarracin"
+      },
+      {
+        "Email": "LUISBEASCOECHEA32@GMAIL.COM",
+        "Nombre": "Luis Abraham Beascoechea"
+      },
+      {
+        "Email": "FRANCKOBENIITEZ@GMAIL.COM",
+        "Nombre": "Franco Antonio Benitez"
+      },
+      {
+        "Email": "VIVIANABOURSIAC@HOTMAIL.COM",
+        "Nombre": "Viviana Boursiac"
+      },
+      {
+        "Email": "CAPELLO_10@HOTMAIL.COM",
+        "Nombre": "Andres Capello"
+      },
+      {
+        "Email": "JOSEDIASQUERIO@GMAIL.COM",
+        "Nombre": "Jose Antonio Diaz"
+      },
+      {
+        "Email": "YESICADEBORAESTAY@GMAIL.COM",
+        "Nombre": "Yesica Debora Estay"
+      },
+      {
+        "Email": "MARIANOFREIJO@HOTMAIL.COM",
+        "Nombre": "Mariano Sebastian Freijo"
+      },
+      {
+        "Email": "COTO09HG@GMAIL.COM",
+        "Nombre": "Hugo Hernan Gallo"
+      },
+      {
+        "Email": "ROLEDESMA25@HOTMAIL.COM",
+        "Nombre": "Roberto Ramon Ledesma"
+      },
+      {
+        "Email": "MATSUD8@GMAIL.COM",
+        "Nombre": "Angel Matias Lopez"
+      },
+      {
+        "Email": "CRISTIAN.SOL.MIA@GMAIL.COM",
+        "Nombre": "Cristian Javier Lopez"
+      },
+      {
+        "Email": "EMILIANOTALLERESS55@GMAIL.COM",
+        "Nombre": "Jose Emiliano Lopez"
+      },
+      {
+        "Email": "MORENOCRIADERO@GMAIL.COM",
+        "Nombre": "Edgardo Gabriel Moreno"
+      },
+      {
+        "Email": "RIVAVALENTINA11@GMAIL.COM",
+        "Nombre": "Valentina Nahir Riva"
+      },
+      {
+        "Email": "GABRIEL.ROPERO.JESUS@GMAIL.COM",
+        "Nombre": "Gabriel Jesus Ropero"
+      },
+      {
+        "Email": "GR4872243@GMAIL.COM",
+        "Nombre": "Gaston Maximiliano Ruiz"
+      },
+      {
+        "Email": "ADRI.SANCHEZ035@GMAIL.COM",
+        "Nombre": "Adrian Eduardo Sanchez"
+      },
+      {
+        "Email": "UASUF69@GMAIL.COM",
+        "Nombre": "Patricio Uasuf"
+      },
+      {
+        "Email": "ROBERTOVILDOZA3@GMAIL.COM",
+        "Nombre": "Roberto Antonio Vildoza"
+      },
+      {
+        "Email": "LUISYUAN@GMAIL.COM",
+        "Nombre": "Luis Maria Yuan"
+      }
+    ],
+    "Salas": [
+      {
+        "Sala": "BATISTELLA",
+        "Grupo": "Lideres ARG",
+        "Facilitador": "Tano Floridia"
+      }
+    ]
+  }
+]
